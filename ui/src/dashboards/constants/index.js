@@ -99,7 +99,7 @@ export const DISPLAY_OPTIONS = {
 }
 export const TOOLTIP_CONTENT = {
   FORMAT:
-    '<p><strong>K/M/B</strong> = Thousand / Million / Billion<br/><strong>K/M/G</strong> = Kilo / Mega / Giga </p>',
+    '<p><strong>K/M/B</strong> = Thousand / Million / Billion<br/><strong>K/M/G</strong> = Kibi / Mebi / Gibi </p>',
 }
 export const TYPE_QUERY_CONFIG = 'queryConfig'
 export const TYPE_SHIFTED = 'shifted queryConfig'
